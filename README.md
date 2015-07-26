@@ -1,5 +1,10 @@
 X-masGame_Kinect
 ==============================
+本遊戲使用Unity開發，主要用於小學生的英文單字教學（數字、顏色）
+
+Demo 影片
+https://www.youtube.com/watch?v=IHMk_5zfoG0
+
 ![Home](https://cloud.githubusercontent.com/assets/6138689/8818767/0d23109e-3078-11e5-9180-2893644d1c9b.png)
 ![Menu](https://cloud.githubusercontent.com/assets/6138689/8818765/0d204a80-3078-11e5-90c2-e06b424a618a.png)
 ![Story](https://cloud.githubusercontent.com/assets/6138689/8818766/0d225b04-3078-11e5-8583-33f523f6a15f.png)
