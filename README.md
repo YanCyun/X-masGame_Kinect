@@ -1,6 +1,6 @@
 X-masGame_Kinect
 ==============================
-本遊戲使用Unity開發，主要用於小學生的英文單字教學（數字、顏色）
+本遊戲為kinect體感遊戲，使用Unity開發，主要用於小學生的英文單字教學（數字、顏色）
 
 Demo 影片
 https://www.youtube.com/watch?v=IHMk_5zfoG0
